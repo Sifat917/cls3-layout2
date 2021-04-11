@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: beige;
+    text-align: center;
+    height: 200px;
+}
+.nav{
+    background-color: burlywood;
+    text-align: center;
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+.article{
+    background-color: darkgray;
+    
+    text-align: center;
+    height: 400px;
+    width: 50%;
+    float: left;
+}
+.ads{
+    background-color: rgb(255, 178, 149);
+    text-align: center;
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+.content{
+    overflow: hidden;
+}
+.foot{
+    background-color: darkseagreen;
+    text-align: center;
+    height: 200px;
+}
